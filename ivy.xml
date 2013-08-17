@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0">
+  <info organisation="asdf" module="example"/>
+  <configurations>
+    <conf name="dev"/>
+  </configurations>
+  <dependencies>
+    <dependency org="apache" name="commons-cli" rev="1.2"/>
+  </dependencies>
+</ivy-module>
